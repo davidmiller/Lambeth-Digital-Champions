@@ -10,7 +10,7 @@ The main reason for this is to help people who have just got online and don't ha
 
 There are cases, particularly after the new Universal Credit System comes in to force, that will require people to be online and have an email address that receives emails related to their application.
 
-To save these people either forgetting about their email address, or needlessly logging in to fine they have no email, this service will tell them when they need to, for example, visit their local library to read important emails about their Universal Credit application.
+To save these people either forgetting about their email address, or needlessly logging in to find they have no email, this service will tell them when they need to, for example, visit their local library to read important emails about their Universal Credit application.
 
 ## Usage
 
